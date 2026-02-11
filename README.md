@@ -13,7 +13,7 @@ Tables:
 - products
 - stock_movements
 
-**SQL JOIN Implementation**
+# SQL JOIN Implementation
 
 - INNER JOIN → Valid stock movements
 - LEFT JOIN → Inactive warehouses
@@ -21,7 +21,7 @@ Tables:
 - FULL OUTER JOIN → Complete activity comparison
 - SELF JOIN → Regional warehouse comparison
 
-**Window Function Implementation**
+# Window Function Implementation
 
 
 - RANK() → Top 5 products per warehouse
@@ -30,17 +30,17 @@ Tables:
 - NTILE(4) → Product segmentation
 
 
-**Key Insights**
+# Key Insights
 
 - Fast-moving products concentrated in specific warehouses.
 - Some facilities underutilized.
 - Movement trends fluctuate seasonally.
 
-**References**
+# References
 
 - PostgreSQL Official Documentation
 - SQL Window Functions Guide
 
-**Integrity Statement**
+# Integrity Statement
 
 “All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.”
