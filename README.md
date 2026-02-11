@@ -43,4 +43,4 @@ Tables:
 
 # Integrity Statement
 
-“All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.”
+“All sources were properly cited. Implementations and analysis represent original work.”
